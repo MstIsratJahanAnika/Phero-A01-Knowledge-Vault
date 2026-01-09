@@ -114,3 +114,34 @@ nav .menu a{
     margin-right: 16px;
 }
 /* banner end */
+
+/* note-container start */
+
+.note-container{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+    padding: 24px;
+}
+
+#notes .section-heading h2{
+    font-size: 48px;
+    font-weight: 700;
+    /* padding-top: 40px; */
+
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+#notes .section-heading p{
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 44px;
+}
+
+.note{
+    display: flex;
+    gap: 24px;
+}
