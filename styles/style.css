@@ -226,3 +226,46 @@ nav .menu a{
     margin-bottom: 16px;
 }
 /* solution section end */
+
+/* think section start */
+#think {
+    margin-bottom: 120px;
+}
+
+.think-container{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    border: none;
+    border-radius: 12px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #F7F6F2;
+}
+
+.think-heading{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.think-p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+
+.think-btn{
+    margin-bottom: 16px;
+}
+
+.think-sub-title{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+/* think section end */
